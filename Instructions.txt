@@ -1,0 +1,30 @@
+
+				 USING Report Card Generator
+					-------------------
+
+Instructions:
+------------
+1.Click on the Report Card Generator.exe file.
+2.Wait for around 20s.
+3.Check the PDF Folder which contains all the PDF records.
+4.Copy the files and then delete the contents of the PDF Folder.
+
+------------------------------------------------------------------
+
+Info:
+-----
+1.Data folder contains the data-sheet to work on.
+2.PDF Folder contains the created PDFs.
+3.Pics Folder contains the images of the students with their name in the given format. (FIRST_NAME LAST_NAME.png)
+4."atom.png" is the logo.Do not delete it or rename it.
+
+
+------------------------------------------------------------------
+
+DO NOTs:
+--------
+1.Do not edit the name of the Data sheet in the Data Folder.
+2.Do not forget to delete the files inside PDF Folder after running the application.
+3.Do not delete the items in the Pics Folder.
+4.ANY CHANGES MADE SHOULD BE DONT KEEPING THE RULES IN MIND.
+
